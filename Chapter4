@@ -1,0 +1,23 @@
+Defining a Function
+You can define functions to provide the required functionality. 
+
+here are simple rules to define a function in Python.
+
+Function blocks begin with the keyword def followed b
+by the function name and parentheses ( ( ) ).
+In call-by-reference evaluation, which is also known as pass-by-reference, a
+
+function gets an implicit reference to the argument, rather than a copy of its value. A
+
+s a consequence, the function can modify the argument, i.e. the value of the variable in the caller's scope can be changed.
+Pythn Keyword Arguments. When we call a function with some values, t
+in
+these values get assigned to the arguments according to their position. ... 
+Pyt
+hon allows functions to be called using keyword arguments. 
+
+When we call functions in this way, t
+ the order (position) of the arguments can be changed.
+ The special syntax *args in function definitions in python is used to pass a variable number of
+ arguments to a function. It is used to pass a non-keyworded, variable-length argument list. The syntax is to use the symbol * to take in a variable number of arguments; by convention, it is often used with the word args.
+*args and **kwargs in Python - 
